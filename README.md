@@ -5,9 +5,9 @@
  <h2>About Me</h2>
 <h4>Developer & Designer</h4>
 <p>
-  Currently, my main focus is finding reliable solutions for software issues. Having pursued a bachelors degree in Computer Science, my main focus is in the frontend, from the UI/UX design to the coding part of it using Reactjs, and also the backend for webbased using Nodejs and for mobile applications using firebase.
+  Currently, my main focus is finding reliable solutions for software issues. Having pursued a bachelors degree in Computer Science, my main focus is in the frontend, from the UI/UX design to the coding part of it using Reactjs for web based and flutter for mobile applications, and also the backend for web based using Nodejs and for mobile applications using firebase.
 </p>
-<p>I am currently a final year student at Machakos university studying Computer science.</p> 
+
 <h2>🚀 Some Tools I Use</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
