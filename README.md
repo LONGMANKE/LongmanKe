@@ -20,6 +20,7 @@ I am dedicated to delivering cutting-edge digital experiences and thrive on cont
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=React)
 
 
   <hr>
